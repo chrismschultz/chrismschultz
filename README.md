@@ -1,8 +1,8 @@
 software development | music | game dev
 
-formerly at [Returned.com](https://www.returned.com/)
+chronically online kinda guy
 
-- currently learning
-  - .NET 9
-  - AWS Cloud Services
+currently learning
   - Godot game engine
+  - .NET 9
+  - audio mixing
